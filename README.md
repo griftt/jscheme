@@ -10,7 +10,7 @@ Some of the Clojure compiler design ideas can be tracked down to [dotLisp](http:
 a Lisp interpreter written by Rich Hickey and targeting the Microsoft CLR.
 
 dotLisp design ideas were borrowed from [Jscheme-2002](http://jscheme.sourceforge.net/jscheme/main.html)
-(as stated on the dotLisp main project homepage), sharing part of the code at first and ending up being completely
+(as stated on the dotLisp main project homepagthe code at first and ending up being completely
 rewritten at the end.
 
 Jscheme 2002 (as I call it to distinguish it from its predecessor) is the "enterprise version" the original prototype
